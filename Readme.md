@@ -13,4 +13,5 @@ A basic app designed to allow the users to help in building a flashlight app whi
   <a href="https://www.linkedin.com/in/msaini0r/">
     <img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
+   <a href="mailto:emersonpess011108@gmail.com?"><img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>
  
