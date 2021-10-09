@@ -7,7 +7,7 @@
 
 A basic app designed to allow the users to help in building a flashlight app which will help them to implement the basics of programming language in  real world.
 
-# Connect with me
+## Connect with me
   <a href="https://twitter.com/msaini0r">
     <img width="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
